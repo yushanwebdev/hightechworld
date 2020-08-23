@@ -11,10 +11,10 @@ export default function ProductList() {
 						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
-							<Link to="/detail">
+							<Link to="/detail.html">
 								READ MORE
 							</Link>
-							<Link to="/detail">
+							<Link to="/detail.html">
 								ADD TO CART
 							</Link>
 						</div>
@@ -29,10 +29,10 @@ export default function ProductList() {
 						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
-							<Link to="/detail">
+							<Link to="/detail.html">
 								READ MORE
 							</Link>
-							<Link to="/detail">
+							<Link to="/detail.html">
 								ADD TO CART
 							</Link>
 						</div>
@@ -47,10 +47,10 @@ export default function ProductList() {
 						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
-							<Link to="/detail">
+							<Link to="/detail.html">
 								READ MORE
 							</Link>
-							<Link to="/detail">
+							<Link to="/detail.html">
 								ADD TO CART
 							</Link>
 						</div>
