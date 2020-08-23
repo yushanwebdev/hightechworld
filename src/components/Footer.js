@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-import footerImg from '../img/footer-img.webp';
+import footerImg from '../img/footer-img.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAt } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons';

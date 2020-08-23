@@ -7,8 +7,8 @@ export default class Banner extends Component {
 			<BannerSlider>
 				<div className="banner-item">
 					<picture>
-						<source srcset="img/banner.webp" media="(min-width: 768px)" />
-  						<img src="img/banner-mobile.webp" alt="High Tech World" />
+						<source srcset="img/banner.jpg" media="(min-width: 768px)" />
+  						<img src="img/banner-mobile.jpg" alt="High Tech World" />
   					</picture>
 				</div>
 			</BannerSlider>

@@ -8,7 +8,7 @@ export default function ProductList() {
 			<div className="container">
 				<ProductItemContainer>
 					<div className="product-img">
-						<img src="/img/phone-1.webp" />
+						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
 							<Link to="/detail">
@@ -26,7 +26,7 @@ export default function ProductList() {
 				</ProductItemContainer>
 				<ProductItemContainer>
 					<div className="product-img">
-						<img src="/img/phone-1.webp" />
+						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
 							<Link to="/detail">
@@ -44,7 +44,7 @@ export default function ProductList() {
 				</ProductItemContainer>
 				<ProductItemContainer>
 					<div className="product-img">
-						<img src="/img/phone-1.webp" />
+						<img src="/img/phone-1.jpg" />
 
 						<div className="product-buttons">
 							<Link to="/detail">
