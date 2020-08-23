@@ -43,7 +43,7 @@ export default function Footer() {
 const FooterContainer = styled.div`
 	footer {
 		font-family: 'Rajdhani', sans-serif;
-		background: center no-repeat url(/static/media/footer-img.85bda741.webp);
+		background: center no-repeat url(${footerImg});
 		background-size: cover;
 		height: 266px;
 		color: var(--mainWhite);
