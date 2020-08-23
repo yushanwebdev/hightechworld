@@ -9,7 +9,7 @@ export default function Detail() {
 			<DetailContainer>
 				<div className="container">
 					<div className="detail-img">
-						<img src="/img/phone-banner.webp" />
+						<img src="/img/phone-banner.jpg" />
 					</div>
 					<div className="detail-content">
 						<h3>Honor 9 Lite</h3>
