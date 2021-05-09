@@ -18,9 +18,9 @@ class Contact extends Component {
             method="POST"
             action="/contact/"
             data-netlify="true"
-            onSubmit={this.onSubmit}
           >
             <div className="col-md-6 form-item">
+              <input type="hidden" name="form-name" value="contact" />
               <label htmlFor="name" className="form-label">
                 Name
               </label>
