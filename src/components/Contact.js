@@ -21,7 +21,7 @@ class Contact extends Component {
             onSubmit={this.onSubmit}
           >
             <div className="col-md-6 form-item">
-              <label for="name" className="form-label">
+              <label htmlFor="name" className="form-label">
                 Name
               </label>
               <input
@@ -33,7 +33,7 @@ class Contact extends Component {
               />
             </div>
             <div className="col-md-6 form-item">
-              <label for="email" className="form-label">
+              <label htmlFor="email" className="form-label">
                 Email
               </label>
               <input
@@ -45,7 +45,7 @@ class Contact extends Component {
               />
             </div>
             <div className="col-md-6 form-item">
-              <label for="phone" className="form-label">
+              <label htmlFor="phone" className="form-label">
                 Telephone No
               </label>
               <input
@@ -57,19 +57,19 @@ class Contact extends Component {
               />
             </div>
             <div className="col-md-6 form-item">
-              <label for="message" className="form-label">
+              <label htmlFor="message" className="form-label">
                 Message
               </label>
               <textarea
                 id="message"
                 name="message"
-                class="form-control"
+                className="form-control"
                 placeholder="Type your message here"
                 rows="4"
               ></textarea>
             </div>
             <div className="text-end">
-              <button class="btn btn-primary">Submit</button>
+              <button className="btn btn-primary">Submit</button>
             </div>
           </form>
         </div>
